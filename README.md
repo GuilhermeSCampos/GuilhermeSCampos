@@ -1,12 +1,6 @@
 ## ✋ Hi, My name is Guilherme Campos!
 #####  I am a front-end developer, currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
-
-
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos3/)
-
-
 <div style='display: flex'>
 
 <img style="margin: 10px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guilhermescampos&show_icons=true&theme=dracula"/>
@@ -14,13 +8,6 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermescampos&layout=compact"/>
 
 </div>
-
-
-
-
-
-
-
 
 ## Languages and Tools
 
@@ -42,6 +29,9 @@
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 <br/>
+<hr/>
 
-![snake gif](https://github.com/YOUR_USERNAME/guilhermescampos/blob/output/github-contribution-grid-snake.gif)
+## Talk to me
 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos3/)
+<a href = "mailto:guilhermeregular@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
