@@ -41,7 +41,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeSCampos}/count.svg" /></p> 
 <br></div>
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="[_blank](https://www.linkedin.com/in/guilherme-campos3/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/guilherme-campos3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
 
