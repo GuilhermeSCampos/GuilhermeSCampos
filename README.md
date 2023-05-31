@@ -11,8 +11,11 @@
 
 </br></br>
 
-### Languages and Tools:
 
+
+<div align="center">
+
+ ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -25,6 +28,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-TAILWIND-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+  
+ </div>
 
 
 
